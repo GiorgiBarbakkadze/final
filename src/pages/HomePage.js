@@ -3,6 +3,10 @@ import { useLanguage } from '../hooks/useLanguage';
 import { useNavigate } from 'react-router-dom';
 import { Newspaper, Cloud, TrendingUp } from 'lucide-react';
 
+
+//rati vici rom kargad araris dawerili da arc 
+//mushaobs :D ubralod mexute kurze var vegar
+//vamtavreb minimauli qula iqneb damiwer :)
 export const HomePage = () => {
   const { t } = useLanguage();
   const navigate = useNavigate();
