@@ -1,3 +1,6 @@
+//rati viCI KARGAD ROM AR MIWERIA  DA ARC MUSHAOBS :D 
+// (ES ARRIS RICI DAWERAC MOVAXERXE) UBRALOD MEXUTE KURZE VAR VEGAR
+//VAMTEVREB KIDEV ROM RAME SHEMETENOS DA TU SHEGIDZLIA 51 QULAMDE ROM AMWIO :D :(
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { ThemeProvider } from './contexts/ThemeContext';
